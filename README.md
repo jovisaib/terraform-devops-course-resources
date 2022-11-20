@@ -18,3 +18,9 @@ Plugins recomendados
 
 # 03 - Terraform: Visión general
 
+
+# 0x - Colaboración en Terraform
+https://blog.gruntwork.io/how-to-use-terraform-as-a-team-251bc1104973
+
+
+
