@@ -29,6 +29,8 @@ evolución de los contenidos.
 Básicamente explicar que se empezará desde conceptos basicos y por lo tanto muy sencillos hasta conceptos más avanzados como pueden
 ser la creación de providers/plugins propios con Golang.
 
+Terraform es una herramienta de infraestructura como código (IAC) que permite a los usuarios definir y provisionar la infraestructura de TI de manera sencilla y reproducible. Con Terraform, puedes usar código para crear, cambiar y mejorar la infraestructura de forma segura y predecible. Terraform es compatible con una amplia gama de proveedores de infraestructura, incluyendo AWS, Azure, GCP y muchos más. Es muy útil para automatizar tareas de configuración y gestión de la infraestructura, lo que ahorra tiempo y reduce el riesgo de errores humanos.
+
 
 ## Explicación de Infraestructura como Código
 
