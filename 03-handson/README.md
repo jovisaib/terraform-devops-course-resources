@@ -1,3 +1,5 @@
+## Hands on
+
 Para instanciar una máquina virtual con terraform, primero debes asegurarte de tener terraform instalado en tu equipo y configurar las credenciales de acceso a tu proveedor de máquinas virtuales.
 
 Una vez que tengas esto listo, puedes crear un archivo de configuración de terraform para tu máquina virtual. Este archivo debe especificar el proveedor de máquinas virtuales que vas a utilizar (por ejemplo, AWS, Azure, GCP, etc.), así como la configuración de la máquina virtual en sí, como el tipo de instancia, el sistema operativo a instalar, etc.
